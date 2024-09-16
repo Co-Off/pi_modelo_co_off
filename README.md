@@ -15,7 +15,7 @@ Equipe:
 
 Links do projeto:
 -   [Documentação (esse documento)](github.com/danielhinsching/pi-modelo)
--   Backend: [Repositório]([https://github.com/Co-Off/Co-Off-API.git])) e [Publicação](https://pi-backend.herokuapp.com/)
+-   Backend: [Repositório]([https://github.com/Co-Off/Co-Off-API.git) e [Publicação](https://pi-backend.herokuapp.com/)
 -   Frontend: [Repositório](https://github.com/Co-Off/Co-Off-Vue.git) e [Publicação](https://pi-frontend.herokuapp.com/)
 -   Figma: [Link](https://www.figma.com/design/2dEfOYPSMhYV2oEPYmzEim/FAKECARS?t=LfNSotsEFVfIicLk-1)
 ![Tabela Banco de Dados](tabela.png "Tabela Banco de Dados")
